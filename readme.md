@@ -6,8 +6,8 @@
 | :-- | :----------------------- | :--------------- |
 | 1   | `Dyar Dwiqi Adriadi Nur` | `dwiqidyar`      |
 | 2   | `Muhammad Ramdhani`      | `masterjowo`     |
-| 3   | `None`                   | `None`           |
-| 4   | `None`                   | `None`           |
+| 3   | `Ridwan Rafif`           | `ridwanrafif`    |
+| 4   | `alqoeri`                | `Alqoeri25`      |
 | 5   | `None`                   | `None`           |
 
 ## Keterangan aplikasi yang akan di uji
