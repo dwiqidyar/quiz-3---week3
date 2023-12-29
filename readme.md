@@ -12,13 +12,13 @@
 
 ## Keterangan aplikasi yang akan di uji
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. Create An Acccount ``
+2. Login``
+3. My Account Edit Account Information ``
+4. My Account Edit Address ``
+5. Choose product
+6. View and update Shoping cart
+7. Proceed to Checkout
 8.
 9.
 
