@@ -12,25 +12,15 @@
 
 ## Keterangan aplikasi yang akan di uji
 
-1. Create An Acccount ``
-2. Login``
-3. My Account Edit Account Information
-4. My Account Edit Address
-5. Choose product
-6. View and update Shoping cart - Ridwan Rafif
-7. Proceed to Checkout - Ridwan Rafif
-8.
-9.
-
 | Nama                 | yang_di_uji | Description |
 | :------------------- | :---------- | :---------- |
 | Alqoeri Putri Insani | login       | \_\_\_\_    |
-| none                 | none        | none        |
+
 
 | Nama              | yang_di_uji | Description |
 | :---------------- | :---------- | :---------- |
-| Muhammad Ramdhani | none        | \_\_\_\_    |
-| none              | none        | none        |
+| Muhammad Ramdhani | My Account Edit Address   | \_\_\_\_    |                   
+| none              | My Account Edit Account Information | none        |
 
 | Nama         | Yang_di_uji                  | Description |
 | :----------- | :--------------------------- | :---------- |
@@ -39,5 +29,5 @@
 
 | Nama                   | yang_di_uji | Description |
 | :--------------------- | :---------- | :---------- |
-| Dyar Dwiqi Adriadi Nur | none        | \_\_\_\_    |
-| none                   | none        | none        |
+| Dyar Dwiqi Adriadi Nur | Create An Acccount       | \_\_\_\_    |
+| none                   | Choose product      | none        |
