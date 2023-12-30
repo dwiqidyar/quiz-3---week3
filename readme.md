@@ -17,8 +17,8 @@
 3. My Account Edit Account Information 
 4. My Account Edit Address 
 5. Choose product 
-6. View and update Shoping cart 
-7. Proceed to Checkout 
+6. View and update Shoping cart - Ridwan Rafif
+7. Proceed to Checkout - Ridwan Rafif
 8.
 9.
 
