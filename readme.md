@@ -14,15 +14,30 @@
 
 1. Create An Acccount ``
 2. Login``
-3. My Account Edit Account Information 
-4. My Account Edit Address 
-5. Choose product 
+3. My Account Edit Account Information
+4. My Account Edit Address
+5. Choose product
 6. View and update Shoping cart - Ridwan Rafif
 7. Proceed to Checkout - Ridwan Rafif
 8.
 9.
 
-| Parameter  | Type     | Description                                           |
-| :--------- | :------- | :---------------------------------------------------- |
-| `email`    | `string` | ada dapat memberikan email default `burhan@gmial.com` |
-| `password` | `string` | ada dapat memberikan password default `admiasasnsaja` |
+| Nama                 | yang_di_uji | Description |
+| :------------------- | :---------- | :---------- |
+| Alqoeri Putri Insani | login       | \_\_\_\_    |
+| none                 | none        | none        |
+
+| Nama              | yang_di_uji | Description |
+| :---------------- | :---------- | :---------- |
+| Muhammad Ramdhani | none        | \_\_\_\_    |
+| none              | none        | none        |
+
+| Nama         | Yang_di_uji                  | Description |
+| :----------- | :--------------------------- | :---------- |
+| Ridwan Rafif | Proceed to Checkout          | \_\_\_\_    |
+| none         | View and update Shoping cart | none        |
+
+| Nama                   | yang_di_uji | Description |
+| :--------------------- | :---------- | :---------- |
+| Dyar Dwiqi Adriadi Nur | none        | \_\_\_\_    |
+| none                   | none        | none        |
