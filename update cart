@@ -1,4 +1,4 @@
-describe('checkout', () => {
+describe('update cart', () => {
   it('passes', () => {
     cy.visit('https://magento.softwaretestingboard.com/');
     cy.contains("Sign In").click()
