@@ -14,11 +14,11 @@
 
 1. Create An Acccount ``
 2. Login``
-3. My Account Edit Account Information ``
-4. My Account Edit Address ``
-5. Choose product
-6. View and update Shoping cart
-7. Proceed to Checkout
+3. My Account Edit Account Information 
+4. My Account Edit Address 
+5. Choose product 
+6. View and update Shoping cart 
+7. Proceed to Checkout 
 8.
 9.
 
