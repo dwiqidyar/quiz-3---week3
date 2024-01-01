@@ -7,7 +7,6 @@ context('Local Storage / Session Storage', () => {
   // Although localStorage is automatically cleared
   // in between tests to maintain a clean state
   // sometimes we need to clear localStorage manually
-
   it('cy.clearLocalStorage() - clear all data in localStorage for the current origin', () => {
     // https://on.cypress.io/clearlocalstorage
     cy.get('.ls-btn').click().should(() => {
