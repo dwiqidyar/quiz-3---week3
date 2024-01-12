@@ -32,4 +32,4 @@
 | Nama                   | yang_di_uji        | Description |
 | :--------------------- | :----------------- | :---------- |
 | Dyar Dwiqi Adriadi Nur | Create An Acccount | \_\_\_\_    |
-| none                   | Choose product     | none        |
+| none                   |   :-----------------   | none        |
